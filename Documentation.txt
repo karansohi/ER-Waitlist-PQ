@@ -1,0 +1,12 @@
+Project Title: Emergency Room Waitlist
+
+Language utilised: C++
+
+Description: This project consists in registering patients into an ER and classifying the waitlist according to their condition
+
+
+Data structures used: 
+- LinkedList —> For building the priority Queue
+- Priority Queue -> User made PQ used to create the waitlist
+
+For further information email me on: ksohi97@gmail.com
